@@ -6,6 +6,11 @@ public class Fenzhi2Hello2Service {
     {
         
     }
+    //分支2继续添加 cd3方法
+    public  void  cd3()
+    {
+
+    }
 }
 
 
