@@ -16,4 +16,10 @@ public class Fenzhi2Hello2Service {
     {
 
     }
+
+    //分支4  abc1
+    public void abc1()
+    {
+
+    }
 }
