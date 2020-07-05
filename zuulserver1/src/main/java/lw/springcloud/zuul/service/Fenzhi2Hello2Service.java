@@ -6,6 +6,11 @@ public class Fenzhi2Hello2Service {
     {
         
     }
+    //分支4 在分支2基础上添加的方法
+    public void abc()
+    {
+
+    }
 }
 
 
