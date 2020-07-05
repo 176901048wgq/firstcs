@@ -16,4 +16,9 @@ public class Fenzhi2Hello2Service {
     {
 
     }
+    //分支2继续添加 cd4方法
+    public  void  cd4()
+    {
+
+    }
 }
