@@ -1,0 +1,21 @@
+server:
+  port: 7000
+  servlet:
+    context-path: /zuul1
+
+spring:
+  application:
+    name: zuul1
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+zuul:
+  routes:
+    a:
+      path: /ribbon/**
+      serviceId: serviceribbon
+    b:
+      path: /feng/**
+      serviceId: servicefeng
