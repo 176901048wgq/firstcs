@@ -6,4 +6,10 @@ public class Fenzhi2Hello4Service {
     {
         System.out.println("分支4添加 第二次修改");
     }
+
+
+    public void abc ()
+    {
+        System.out.println("第一次修改");
+    }
 }
