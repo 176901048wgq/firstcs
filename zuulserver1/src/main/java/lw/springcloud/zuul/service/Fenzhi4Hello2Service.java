@@ -12,4 +12,9 @@ public class Fenzhi2Hello4Service {
     {
         System.out.println("第一次修改");
     }
+
+    public void abc2222 ()
+    {
+        System.out.println("第二次修改");
+    }
 }
